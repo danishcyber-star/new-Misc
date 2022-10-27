@@ -8,4 +8,22 @@ evidently
 dill
 matplotlib
 pytest
+appdirs
+certifi
+click
+distlib
+Flask-Cors
+gunicorn==20.1.0
+itsdangerous
+Jinja2
+joblib
+MarkupSafe
+python-dateutil
+pytz
+scikit-learn
+scipy
+six
+virtualenv
+Werkzeug
+wincertstore
 -e .
